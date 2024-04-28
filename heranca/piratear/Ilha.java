@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class Ilha extends Localidade{
     private String nome;

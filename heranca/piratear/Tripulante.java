@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public abstract class Tripulante{
     private String nome, nacionalidade, apelido;

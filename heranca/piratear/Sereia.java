@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class Sereia extends SerMistico {
     private static boolean caldaPeixe = true;

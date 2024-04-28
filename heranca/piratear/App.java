@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class App {
     public static void main(String args[]){

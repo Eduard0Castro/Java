@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class CostaContinental extends Localidade{
     private String cidade, estado;

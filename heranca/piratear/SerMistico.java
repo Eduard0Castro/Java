@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class SerMistico {
     private String apelido;

@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class Pirata extends Navio{
 

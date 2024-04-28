@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class SerpenteGigante {
     private static boolean cospeFogo = true;

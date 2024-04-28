@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class MapaTesouro  extends Mapa{
     private int moedas, joias; 

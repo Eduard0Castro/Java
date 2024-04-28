@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class Auxiliar extends Tripulante{
     private int horasNavega;

@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public abstract class Mapa {
     private String nome;

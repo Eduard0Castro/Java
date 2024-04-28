@@ -1,4 +1,4 @@
-package heranca;
+package piratear;
 
 public class Produto {
     private float peso, preco;
