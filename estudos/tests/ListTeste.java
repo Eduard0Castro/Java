@@ -9,7 +9,8 @@ public class ListTeste {
 
     public static void main(String args[]){
         list_int.add(8);
-        list_int.add(8);
+        list_int.add(189);
+        list_int.add(345);
 
         String nome = "Eduardo";
 
@@ -19,6 +20,19 @@ public class ListTeste {
         for (String i: string_list){
             System.out.println(i);
         }
+
+        for (Integer i: list_int){
+            System.out.println(i);
+        }
+
+        Integer protocolo = 23;
+
+        if (list_int.contains(protocolo)){
+            System.out.println("Protocolo resolvido");
+        }
+
+        else 
+            System.out.println("Protocolo repassado para superior");
 
 
     }
